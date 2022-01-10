@@ -1,5 +1,9 @@
 # A* visuallization
 
+<br></br>
+![Demo1](./demo1.gif)
+<center>Working demo</center>
+
 A* algorithm is a one of popular techniques for pathfinding and solution search in a given space. This
 project implements the said algorithm using pygame module and python 3.10.1 .The features of this project are :
 
@@ -12,9 +16,7 @@ project implements the said algorithm using pygame module and python 3.10.1 .The
 
 ![Mazes](./mazes.png "Randomly generated mazes")
 
-<br></br>
-![Demo1](./demo1.gif)
-<center>Working demo</center>
+
 
 <br></br>
 ![Demo2](./demo2.gif)
