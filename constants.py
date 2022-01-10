@@ -1,0 +1,18 @@
+import pygame
+
+WIDTH = 600
+ROWS = 50
+
+WIN = pygame.display.set_mode((WIDTH, WIDTH))
+pygame.display.set_caption("A* viz")
+
+VISITEDNODE_COLOR = '#C0C0C0'
+SEENNODE_COLOR = '#808080'
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+BGBASE_COLOR = '#404040'
+WALL_COLOR = '#020018'
+FINALPATH_COLOR = '#FFFF33'
+START_COLOR = '#cb4b16'
+GRIDLINE_COLOR = '#000000'
+END_COLOR = '#cb4b16'
