@@ -4,6 +4,7 @@
 ![Demo1](./demo1.gif)
 <center>Working demo</center>
 
+<br>
 A* algorithm is a one of popular techniques for pathfinding and solution search in a given space. This
 project implements the said algorithm using pygame module and python 3.10.1 .The features of this project are :
 
