@@ -2,7 +2,7 @@
 
 <br></br>
 ![Demo1](./demo1.gif)
-<center>Working demo</center>
+working demo  
 
   
   
