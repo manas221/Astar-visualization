@@ -1,1 +1,2 @@
-this is a readme file for A* project
+### this is a readme file for A* project
+## Work in progress
