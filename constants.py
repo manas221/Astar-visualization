@@ -1,7 +1,7 @@
 import pygame
 
 WIDTH = 600
-ROWS = 50
+ROWS = 40
 
 WIN = pygame.display.set_mode((WIDTH, WIDTH))
 pygame.display.set_caption("A* viz")
