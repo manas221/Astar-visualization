@@ -4,7 +4,9 @@
 ![Demo1](./demo1.gif)
 <br>
 A* algorithm is a one of popular techniques for pathfinding and solution search in a given space. This
-project implements the said algorithm using pygame module and python 3.10.1 .The features of this project are :
+project implements the said algorithm using pygame module and python 3.10.1 .This project is based on 
+tech with tim's A* visualization video[in source] with some additional features.The features of this 
+project are :
 
 - Random maze generation.
 - Color scheme for distinguishability and aesthetics.
